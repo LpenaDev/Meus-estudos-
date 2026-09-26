@@ -1,2 +1,7 @@
-# Meus-estudos-
-Meus estudos de programaçao do zero
+# Meus Estudos de Programação
+
+Aqui vou colocar tudo que eu for aprendendo.
+
+- HTML
+- CSS
+- JavaScript
